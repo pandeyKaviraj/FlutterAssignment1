@@ -35,9 +35,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   #cupertino_icons: ^1.0.2
   auto_size_text: ^3.0.0
-  pin_code_text_field: ^1.8.0
-  #pin_input_text_field: ^4.1.1
-  #pin_entry_text_field: ^0.1.4
+  pin_code_fields: ^7.3.0
 
 dev_dependencies:
   flutter_test:
@@ -82,9 +80,7 @@ fonts:
     fonts:
         - asset: fonts/Poppins-Black.ttf
 
-  - family: Poppins
-    fonts:
-      - asset: fonts/Poppins-Regular.ttf
+
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
